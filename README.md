@@ -1,3 +1,26 @@
+## ignition_math6_vendor (humble) - 0.0.2-3
+
+The packages in the `ignition_math6_vendor` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble ignition_math6_vendor -e` on `Thu, 25 Apr 2024 15:26:45 -0000`
+
+The `ignition_math6_vendor` package was released.
+
+Version of package(s) in repository `ignition_math6_vendor`:
+
+- upstream repository: https://github.com/ignition-release/ignition_math6_vendor.git
+- release repository: https://github.com/revyos-ros/gz_math6_vendor-release.git
+- rosdistro version: `0.0.2-2`
+- old version: `0.0.2-2`
+- new version: `0.0.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ignition_math6_vendor (rolling) - 0.3.0-1
 
 The packages in the `ignition_math6_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling ignition_math6_vendor` on `Fri, 08 Mar 2024 01:54:19 -0000`
