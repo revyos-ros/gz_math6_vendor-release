@@ -1,0 +1,15 @@
+ros-humble-ignition-math6-vendor (0.0.2-3bullseye) bullseye; urgency=high
+
+  * Update to 6.9.2 ign-math6. (#1 <https://github.com/ignition-release/ignition_math6_vendor/issues/1>)
+  * Contributors: Chris Lalancette
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 28 Mar 2022 16:00:00 -0000
+
+ros-humble-ignition-math6-vendor (0.0.1-3bullseye) bullseye; urgency=high
+
+  * Initial package
+  * Contributors: Scott K Logan
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sun, 15 Aug 2021 16:00:00 -0000
+
+
